@@ -97,9 +97,5 @@ across 4 years — identifying seasonal peaks and growth patterns per brand.
 Hammad
 Junior Data Analyst | SQL · Excel · Power BI
 
-LinkedIn: https://linkedin.com
-GitHub: https://github.com
-
-
 This project is part of my data analytics portfolio built to demonstrate
 real-world SQL skills for junior data analyst roles.
